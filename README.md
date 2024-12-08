@@ -9,7 +9,7 @@ This project is a simple, responsive digital invitation created using **HTML** a
 - Includes sections for the event's date, time, and venue.
 
 ## Screenshot
-![Henna Product Launch Invitation](screenshot.png)
+![Henna Product Launch Invitation](https://github.com/reezmahanan/firsthtml/blob/main/Screenshot%202024-12-08%20120249.png)
 
 ## Technologies Used
 - HTML5
