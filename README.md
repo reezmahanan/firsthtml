@@ -1,23 +1,23 @@
-# Henna Product Launch Invitation
+# Henna Product Launch Invitation 🎉
 
 ## Description
-This is a simple, responsive HTML and CSS project designed to create an elegant digital invitation for a Henna product launch.
+This project is a simple, responsive digital invitation created using **HTML** and **CSS**. It was designed as part of my learning journey in web development.
 
 ## Features
 - Responsive design.
-- Eye-catching color palette and layout.
-- Styled header, content, and footer sections.
+- Clean layout with a vibrant color scheme.
+- Includes sections for the event's date, time, and venue.
 
-## Preview
-![Screenshot of the Invitation](screenshot.png)
+## Screenshot
+![Henna Product Launch Invitation](screenshot.png)
 
 ## Technologies Used
 - HTML5
 - CSS3
 
-## How to Use
+## How to View
 1. Clone the repository.
-2. Open `index.html` in any browser to view the invitation.
+2. Open `index.html` in any browser to view the project.
 
 ## Feedback
-Feel free to open an issue or share your feedback! 😊
+This is my first project, and I'm eager to learn more! Feel free to share suggestions or feedback.
